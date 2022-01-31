@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-## 🔭 Actualmente estoy trabajando en buscar trabajo
+### - 🔭 Actualmente estoy trabajando en buscar trabajo
 ## 🌱 Me encuentro estudiando Python y Linux Debian 11, así como otras herramientas como Vim o particionado de discos en Linux entre otros ...
 ## 👯 Busco colaborar en proyectos orientados a lenguajes POO o tareas orientadas al soporte técnico. 
 ## 🤔 Busco ayuda con el Ingles (de verdad me cuesta un poquito) y en mi formación como futuro ingeniero.
