@@ -1,4 +1,4 @@
-## Buen dia gente de bien, desde la virtual os doy la Bienvenida a mi Github👋
+## Buen dia gente de bien, desde la virtualidad os doy la Bienvenida a mi Github👋
 
 <!--
 **EzequielMLopez/EzequielMLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
